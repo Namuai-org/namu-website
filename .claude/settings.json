@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-settings.json",
   "extraKnownMarketplaces": {
     "namu-agents": {
-      "source": { "source": "github", "repo": "Namuai-org/namu-agents" }
+      "source": { "source": "github", "repo": "namu-ai-lab/namu-agents" }
     }
   },
   "enabledPlugins": {
