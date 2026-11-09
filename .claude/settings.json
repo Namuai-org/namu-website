@@ -6,7 +6,7 @@
     }
   },
   "enabledPlugins": {
-    "namu-core@namu-agents": true,
+    "namu@namu-agents": true,
     "namu-design@namu-agents": true,
     "namu-docs@namu-agents": true
   }
